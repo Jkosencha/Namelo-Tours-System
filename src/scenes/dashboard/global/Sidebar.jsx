@@ -1,6 +1,5 @@
-import { Sidebar } from "react-pro-sidebar"
 
-Const Sidebar = () => {
+const Sidebar = () => {
     return<div>Sidebar</div>;
 }
 

@@ -1,6 +1,5 @@
-import { Dashboard } from "@mui/icons-material";
 
-Const Dashboard = () => {
+const Dashboard = () => {
     return<div>Dashboard</div>;
 }
 
